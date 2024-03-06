@@ -7,11 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace WindowsFormsApp1
 {
     public partial class FrmSanPham : Form
     {
+        
+
         bool FormMenu = false;
         public FrmSanPham()
         {
@@ -34,27 +37,9 @@ namespace WindowsFormsApp1
             }    
         }
 
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
+        
 
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void grbNhanVien_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void FrmSanPham_Load(object sender, EventArgs e)
         {
 
         }

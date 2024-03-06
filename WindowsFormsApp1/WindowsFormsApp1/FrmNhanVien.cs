@@ -21,5 +21,20 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void grbNhanVien_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

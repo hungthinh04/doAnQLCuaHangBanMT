@@ -16,5 +16,10 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void grbNhanVien_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

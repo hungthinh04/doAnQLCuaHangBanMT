@@ -42,6 +42,10 @@ namespace WindowsFormsApp1
             if(name=="hungthinh"&&pass=="123")
             {
                 MessageBox.Show(" Đăng nhập thành công", "thông báo", MessageBoxButtons.OK);
+                FrmMenu frmMenu = new FrmMenu();
+                this.Hide();
+                frmMenu.Show();
+
             }
             
             else

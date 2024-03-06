@@ -11,3 +11,11 @@ D:\doAnQLCuaHangMT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.
 D:\doAnQLCuaHangMT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLogin.resources
 D:\doAnQLCuaHangMT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMenu.resources
 D:\doAnQLCuaHangMT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmSanPham.resources
+D:\doAnQLCuaHangMT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDon.resources
+D:\doAnQLCuaHangMT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmNhaCungCap.resources
+D:\doAnQLCuaHangMT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmNhanVien.resources
+D:\doAnQLCuaHangMT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmTonKho.resources
+D:\doAnQLCuaHangMT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+D:\doAnQLCuaHangMT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.dll
+D:\doAnQLCuaHangMT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.xml
+D:\doAnQLCuaHangMT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
